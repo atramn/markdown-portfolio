@@ -1,6 +1,6 @@
 # Skills 
 
-Bellow is a _list_ of my technical **skills** 
+Bellow are _list_ of my technical **skills** 
 
 ## Programming languages 
 
