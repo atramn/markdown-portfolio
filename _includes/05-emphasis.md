@@ -1,20 +1,22 @@
-# Skills 
+# Skills
 
-Bellow is a _list_ of my technical **skills** 
+Bellow are _list_ of my technical **skills**
 
-## Programming languages 
+## Programming languages
 
-- Ruby 
-- Java 
-- Python 
+- Ruby
+- Java
+- Python
 - C++
-- JavaScript 
-* React 
+- JavaScript
+* React
 * NodeJs
-* ES6 
+* ES6
+- BootStrap
 
 
-## Collaboration 
-- GitHub 
+## Collaboration
+- GitHub
 - Git
-- JetBrains 
+- JetBrains
+- Atom
